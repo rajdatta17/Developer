@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-07-25T11:00:00.000Z",
+  "headline": "A tight title-race fixture anchors the evening schedule.",
+  "matches": [
+    {
+      "id": "football-demo-001",
+      "competition": "Premier League — demonstration feed",
+      "context": "Matchweek 1 preview",
+      "home": { "id": "ars", "name": "Arsenal", "shortName": "ARS" },
+      "away": { "id": "liv", "name": "Liverpool", "shortName": "LIV" },
+      "startsAt": "2026-07-25T19:00:00.000Z",
+      "state": "SCHEDULED",
+      "statusText": "Kickoff at 3:00 PM ET",
+      "homeScore": null,
+      "awayScore": null,
+      "narrative": "Two demonstration title contenders open the evening slate",
+      "importance": 95,
+      "updatedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "football-demo-002",
+      "competition": "UEFA Champions League — demonstration feed",
+      "context": "Group stage",
+      "home": { "id": "rma", "name": "Real Madrid", "shortName": "RMA" },
+      "away": { "id": "bmu", "name": "Bayern Munich", "shortName": "BAY" },
+      "startsAt": "2026-07-26T19:00:00.000Z",
+      "state": "SCHEDULED",
+      "statusText": "Tomorrow at 3:00 PM ET",
+      "homeScore": null,
+      "awayScore": null,
+      "narrative": "A high-significance demonstration European fixture",
+      "importance": 91,
+      "updatedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "football-demo-003",
+      "competition": "La Liga — demonstration feed",
+      "context": "Recent result",
+      "home": { "id": "bar", "name": "Barcelona", "shortName": "BAR" },
+      "away": { "id": "atm", "name": "Atlético Madrid", "shortName": "ATM" },
+      "startsAt": "2026-07-24T19:00:00.000Z",
+      "state": "FINAL",
+      "statusText": "Full time",
+      "homeScore": "2",
+      "awayScore": "1",
+      "narrative": "A late winner decided the demonstration match",
+      "importance": 86,
+      "updatedAt": "2026-07-24T21:00:00.000Z"
+    }
+  ]
+}

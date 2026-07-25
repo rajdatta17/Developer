@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-25T04:53:00.621Z",
+  "source": {
+    "id": "daybreak-deterministic",
+    "name": "Daybreak deterministic briefing",
+    "url": "https://github.com/",
+    "attribution": "Generated locally from attributed normalized sources"
+  },
+  "overall": "ok",
+  "items": [
+    {
+      "provider": "open-meteo",
+      "state": "ok",
+      "lastAttemptAt": "2026-07-25T04:53:00.621Z",
+      "lastSuccessfulAt": "2026-07-25T04:53:00.621Z"
+    },
+    {
+      "provider": "mock-cricket",
+      "state": "ok",
+      "lastAttemptAt": "2026-07-25T04:53:00.621Z",
+      "lastSuccessfulAt": "2026-07-25T04:53:00.621Z"
+    },
+    {
+      "provider": "mock-football",
+      "state": "ok",
+      "lastAttemptAt": "2026-07-25T04:53:00.621Z",
+      "lastSuccessfulAt": "2026-07-25T04:53:00.621Z"
+    }
+  ]
+}

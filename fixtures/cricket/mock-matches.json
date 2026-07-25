@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-07-25T11:00:00.000Z",
+  "headline": "The morning session is finely balanced after an early breakthrough.",
+  "matches": [
+    {
+      "id": "cricket-demo-001",
+      "competition": "International Test — demonstration feed",
+      "context": "Day 2 of 5",
+      "home": { "id": "ind", "name": "India", "shortName": "IND" },
+      "away": { "id": "eng", "name": "England", "shortName": "ENG" },
+      "startsAt": "2026-07-25T10:00:00.000Z",
+      "state": "LIVE",
+      "statusText": "Lunch, day two",
+      "homeScore": "286/6",
+      "awayScore": "247",
+      "narrative": "India lead by 39 runs with four first-innings wickets remaining",
+      "importance": 92,
+      "updatedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "cricket-demo-002",
+      "competition": "T20 International — demonstration feed",
+      "context": "Series opener",
+      "home": { "id": "wi", "name": "West Indies", "shortName": "WI" },
+      "away": { "id": "aus", "name": "Australia", "shortName": "AUS" },
+      "startsAt": "2026-07-25T23:30:00.000Z",
+      "state": "SCHEDULED",
+      "statusText": "Starts at 7:30 PM ET",
+      "homeScore": null,
+      "awayScore": null,
+      "narrative": "The first match in a three-game demonstration series",
+      "importance": 74,
+      "updatedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "cricket-demo-003",
+      "competition": "One-Day International — demonstration feed",
+      "context": "Final",
+      "home": { "id": "nz", "name": "New Zealand", "shortName": "NZ" },
+      "away": { "id": "sa", "name": "South Africa", "shortName": "SA" },
+      "startsAt": "2026-07-24T14:00:00.000Z",
+      "state": "FINAL",
+      "statusText": "New Zealand won by 18 runs",
+      "homeScore": "287/8",
+      "awayScore": "269",
+      "narrative": "A late three-wicket burst settled the demonstration final",
+      "importance": 81,
+      "updatedAt": "2026-07-24T21:30:00.000Z"
+    }
+  ]
+}

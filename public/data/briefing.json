@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-25T04:53:00.621Z",
+  "lastAttemptAt": "2026-07-25T04:53:00.621Z",
+  "source": {
+    "id": "daybreak-deterministic",
+    "name": "Daybreak deterministic briefing",
+    "url": "https://github.com/",
+    "attribution": "Generated locally from attributed normalized sources"
+  },
+  "freshness": {
+    "status": "fresh",
+    "lastSuccessfulAt": "2026-07-25T04:53:00.621Z",
+    "ageMinutes": 0,
+    "staleAfterMinutes": 180,
+    "expiresAfterMinutes": 720
+  },
+  "briefing": {
+    "sentences": [
+      "Overcast conditions lead the day in New York, with a high near 29°C and a 0% chance of precipitation.",
+      "India and England are live in International Test — demonstration feed at 286/6–247; lunch, day two.",
+      "Arsenal and Liverpool are next up in Premier League — demonstration feed; kickoff at 3:00 pm et."
+    ],
+    "worthKnowing": [
+      {
+        "id": "cricket-cricket-demo-001",
+        "rank": 1,
+        "topic": "cricket",
+        "title": "India vs England",
+        "summary": "Lunch, day two. IND 286/6–247 ENG. India lead by 39 runs with four first-innings wickets remaining",
+        "significance": 92,
+        "timestamp": "2026-07-25T10:00:00.000Z"
+      },
+      {
+        "id": "football-football-demo-001",
+        "rank": 2,
+        "topic": "football",
+        "title": "Arsenal vs Liverpool",
+        "summary": "Kickoff at 3:00 PM ET. Two demonstration title contenders open the evening slate",
+        "significance": 95,
+        "timestamp": "2026-07-25T19:00:00.000Z"
+      },
+      {
+        "id": "football-football-demo-002",
+        "rank": 3,
+        "topic": "football",
+        "title": "Real Madrid vs Bayern Munich",
+        "summary": "Tomorrow at 3:00 PM ET. A high-significance demonstration European fixture",
+        "significance": 91,
+        "timestamp": "2026-07-26T19:00:00.000Z"
+      }
+    ],
+    "inputs": [
+      {
+        "topic": "weather",
+        "freshness": "fresh",
+        "generatedAt": "2026-07-25T04:53:00.621Z"
+      },
+      {
+        "topic": "cricket",
+        "freshness": "fresh",
+        "generatedAt": "2026-07-25T04:53:00.621Z"
+      },
+      {
+        "topic": "football",
+        "freshness": "fresh",
+        "generatedAt": "2026-07-25T04:53:00.621Z"
+      }
+    ]
+  }
+}

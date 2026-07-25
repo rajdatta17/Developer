@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-25T04:53:00.621Z",
+  "lastAttemptAt": "2026-07-25T04:53:00.621Z",
+  "source": {
+    "id": "mock-football",
+    "name": "Daybreak Football Demo",
+    "url": "https://github.com/",
+    "attribution": "Daybreak Football Demo realistic fixture data"
+  },
+  "freshness": {
+    "status": "fresh",
+    "lastSuccessfulAt": "2026-07-25T04:53:00.621Z",
+    "ageMinutes": 0,
+    "staleAfterMinutes": 180,
+    "expiresAfterMinutes": 720
+  },
+  "items": [
+    {
+      "id": "football-demo-001",
+      "sport": "football",
+      "competition": "Premier League — demonstration feed",
+      "competitionContext": "Matchweek 1 preview",
+      "homeTeam": {
+        "id": "ars",
+        "name": "Arsenal",
+        "shortName": "ARS"
+      },
+      "awayTeam": {
+        "id": "liv",
+        "name": "Liverpool",
+        "shortName": "LIV"
+      },
+      "startTime": "2026-07-25T19:00:00.000Z",
+      "status": "upcoming",
+      "statusText": "Kickoff at 3:00 PM ET",
+      "score": null,
+      "narrative": "Two demonstration title contenders open the evening slate",
+      "significance": 95,
+      "lastUpdatedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "football-demo-002",
+      "sport": "football",
+      "competition": "UEFA Champions League — demonstration feed",
+      "competitionContext": "Group stage",
+      "homeTeam": {
+        "id": "rma",
+        "name": "Real Madrid",
+        "shortName": "RMA"
+      },
+      "awayTeam": {
+        "id": "bmu",
+        "name": "Bayern Munich",
+        "shortName": "BAY"
+      },
+      "startTime": "2026-07-26T19:00:00.000Z",
+      "status": "upcoming",
+      "statusText": "Tomorrow at 3:00 PM ET",
+      "score": null,
+      "narrative": "A high-significance demonstration European fixture",
+      "significance": 91,
+      "lastUpdatedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "football-demo-003",
+      "sport": "football",
+      "competition": "La Liga — demonstration feed",
+      "competitionContext": "Recent result",
+      "homeTeam": {
+        "id": "bar",
+        "name": "Barcelona",
+        "shortName": "BAR"
+      },
+      "awayTeam": {
+        "id": "atm",
+        "name": "Atlético Madrid",
+        "shortName": "ATM"
+      },
+      "startTime": "2026-07-24T19:00:00.000Z",
+      "status": "completed",
+      "statusText": "Full time",
+      "score": {
+        "home": "2",
+        "away": "1"
+      },
+      "narrative": "A late winner decided the demonstration match",
+      "significance": 86,
+      "lastUpdatedAt": "2026-07-24T21:00:00.000Z"
+    }
+  ],
+  "leadingHeadline": "A tight title-race fixture anchors the evening schedule."
+}
