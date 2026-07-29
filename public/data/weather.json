@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-29T09:11:41.457Z",
-  "lastAttemptAt": "2026-07-29T09:11:41.457Z",
+  "generatedAt": "2026-07-29T11:34:57.869Z",
+  "lastAttemptAt": "2026-07-29T11:34:57.869Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-07-29T09:11:41.457Z",
+    "lastSuccessfulAt": "2026-07-29T11:34:57.869Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,28 +23,28 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-07-29T09:00:00.000Z",
-      "temperatureC": 20.3,
-      "feelsLikeC": 22.8,
-      "highC": 26.7,
-      "lowC": 19.8,
+      "observedAt": "2026-07-29T11:30:00.000Z",
+      "temperatureC": 21.5,
+      "feelsLikeC": 25,
+      "highC": 26,
+      "lowC": 20.2,
       "precipitationProbability": 72,
-      "windSpeedKph": 8.5,
-      "windDirectionDegrees": 298,
+      "windSpeedKph": 3.8,
+      "windDirectionDegrees": 253,
       "condition": {
-        "code": 61,
-        "label": "Rain",
-        "icon": "rain"
+        "code": 2,
+        "label": "Partly cloudy",
+        "icon": "partly-cloudy"
       },
       "sunrise": "2026-07-29T09:50:00.000Z",
       "sunset": "2026-07-30T00:14:00.000Z",
-      "isDay": false
+      "isDay": true
     },
     "forecast": [
       {
         "date": "2026-07-29",
-        "highC": 26.7,
-        "lowC": 19.8,
+        "highC": 26,
+        "lowC": 20.2,
         "precipitationProbability": 72,
         "condition": {
           "code": 80,
@@ -58,7 +58,7 @@
         "date": "2026-07-30",
         "highC": 23.7,
         "lowC": 18.7,
-        "precipitationProbability": 20,
+        "precipitationProbability": 22,
         "condition": {
           "code": 61,
           "label": "Rain",
@@ -69,21 +69,21 @@
       },
       {
         "date": "2026-07-31",
-        "highC": 27.6,
-        "lowC": 19,
+        "highC": 28.7,
+        "lowC": 19.4,
         "precipitationProbability": 5,
         "condition": {
-          "code": 51,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 3,
+          "label": "Overcast",
+          "icon": "cloudy"
         },
         "sunrise": "2026-07-31T09:52:00.000Z",
         "sunset": "2026-08-01T00:12:00.000Z"
       },
       {
         "date": "2026-08-01",
-        "highC": 26.9,
-        "lowC": 21.6,
+        "highC": 28.6,
+        "lowC": 21.9,
         "precipitationProbability": 3,
         "condition": {
           "code": 3,
@@ -95,11 +95,11 @@
       },
       {
         "date": "2026-08-02",
-        "highC": 24.4,
-        "lowC": 22.4,
+        "highC": 28.1,
+        "lowC": 23.7,
         "precipitationProbability": 22,
         "condition": {
-          "code": 55,
+          "code": 53,
           "label": "Drizzle",
           "icon": "drizzle"
         },
@@ -108,13 +108,13 @@
       },
       {
         "date": "2026-08-03",
-        "highC": 28.1,
-        "lowC": 21.6,
+        "highC": 28.6,
+        "lowC": 23.2,
         "precipitationProbability": 29,
         "condition": {
-          "code": 51,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 80,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-08-03T09:54:00.000Z",
         "sunset": "2026-08-04T00:09:00.000Z"
