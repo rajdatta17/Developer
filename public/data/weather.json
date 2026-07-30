@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-30T09:04:28.467Z",
-  "lastAttemptAt": "2026-07-30T09:04:28.467Z",
+  "generatedAt": "2026-07-30T11:22:20.982Z",
+  "lastAttemptAt": "2026-07-30T11:22:20.982Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-07-30T09:04:28.467Z",
+    "lastSuccessfulAt": "2026-07-30T11:22:20.982Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,33 +23,33 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-07-30T09:00:00.000Z",
-      "temperatureC": 19.2,
-      "feelsLikeC": 20.6,
-      "highC": 24.5,
-      "lowC": 19.2,
-      "precipitationProbability": 33,
-      "windSpeedKph": 9.2,
-      "windDirectionDegrees": 318,
+      "observedAt": "2026-07-30T11:15:00.000Z",
+      "temperatureC": 20.2,
+      "feelsLikeC": 21.5,
+      "highC": 23.9,
+      "lowC": 19.5,
+      "precipitationProbability": 25,
+      "windSpeedKph": 13.2,
+      "windDirectionDegrees": 331,
       "condition": {
-        "code": 2,
-        "label": "Partly cloudy",
-        "icon": "partly-cloudy"
+        "code": 3,
+        "label": "Overcast",
+        "icon": "cloudy"
       },
       "sunrise": "2026-07-30T09:51:00.000Z",
       "sunset": "2026-07-31T00:13:00.000Z",
-      "isDay": false
+      "isDay": true
     },
     "forecast": [
       {
         "date": "2026-07-30",
-        "highC": 24.5,
-        "lowC": 19.2,
-        "precipitationProbability": 33,
+        "highC": 23.9,
+        "lowC": 19.5,
+        "precipitationProbability": 25,
         "condition": {
-          "code": 55,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 61,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-07-30T09:51:00.000Z",
         "sunset": "2026-07-31T00:13:00.000Z"
@@ -58,7 +58,7 @@
         "date": "2026-07-31",
         "highC": 27.9,
         "lowC": 19.2,
-        "precipitationProbability": 4,
+        "precipitationProbability": 5,
         "condition": {
           "code": 3,
           "label": "Overcast",
