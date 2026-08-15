@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-08-15T09:42:44.094Z",
-  "lastAttemptAt": "2026-08-15T09:42:44.094Z",
+  "lastAttemptAt": "2026-08-15T13:00:13.859Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -11,9 +11,15 @@
   "freshness": {
     "status": "fresh",
     "lastSuccessfulAt": "2026-08-15T09:42:44.094Z",
-    "ageMinutes": 0,
+    "ageMinutes": 197.5,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
+  },
+  "error": {
+    "code": "PROVIDER_REFRESH_FAILED",
+    "message": "Open-Meteo request failed with 503 Service Unavailable",
+    "occurredAt": "2026-08-15T13:00:13.859Z",
+    "retryable": true
   },
   "weather": {
     "location": {
