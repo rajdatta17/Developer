@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T01:56:27.452Z",
-  "lastAttemptAt": "2026-08-17T01:56:27.452Z",
+  "generatedAt": "2026-08-17T04:04:17.211Z",
+  "lastAttemptAt": "2026-08-17T04:04:17.211Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-08-17T01:56:27.452Z",
+    "lastSuccessfulAt": "2026-08-17T04:04:17.211Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,59 +23,46 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-08-17T01:45:00.000Z",
-      "temperatureC": 20.6,
-      "feelsLikeC": 22.3,
-      "highC": 27.8,
-      "lowC": 20.5,
-      "precipitationProbability": 24,
-      "windSpeedKph": 10.6,
-      "windDirectionDegrees": 152,
+      "observedAt": "2026-08-17T04:00:00.000Z",
+      "temperatureC": 20.1,
+      "feelsLikeC": 22,
+      "highC": 30.8,
+      "lowC": 20.1,
+      "precipitationProbability": 73,
+      "windSpeedKph": 8.3,
+      "windDirectionDegrees": 124,
       "condition": {
         "code": 3,
         "label": "Overcast",
         "icon": "cloudy"
       },
-      "sunrise": "2026-08-16T10:07:00.000Z",
-      "sunset": "2026-08-16T23:52:00.000Z",
+      "sunrise": "2026-08-17T10:08:00.000Z",
+      "sunset": "2026-08-17T23:51:00.000Z",
       "isDay": false
     },
     "forecast": [
       {
-        "date": "2026-08-16",
-        "highC": 27.8,
-        "lowC": 20.5,
-        "precipitationProbability": 24,
-        "condition": {
-          "code": 51,
-          "label": "Drizzle",
-          "icon": "drizzle"
-        },
-        "sunrise": "2026-08-16T10:07:00.000Z",
-        "sunset": "2026-08-16T23:52:00.000Z"
-      },
-      {
         "date": "2026-08-17",
-        "highC": 30.3,
-        "lowC": 21.1,
-        "precipitationProbability": 76,
+        "highC": 30.8,
+        "lowC": 20.1,
+        "precipitationProbability": 73,
         "condition": {
-          "code": 55,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 63,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-08-17T10:08:00.000Z",
         "sunset": "2026-08-17T23:51:00.000Z"
       },
       {
         "date": "2026-08-18",
-        "highC": 31.5,
-        "lowC": 20.2,
-        "precipitationProbability": 7,
+        "highC": 29.5,
+        "lowC": 21.3,
+        "precipitationProbability": 9,
         "condition": {
-          "code": 3,
-          "label": "Overcast",
-          "icon": "cloudy"
+          "code": 81,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-08-18T10:09:00.000Z",
         "sunset": "2026-08-18T23:49:00.000Z"
@@ -84,7 +71,7 @@
         "date": "2026-08-19",
         "highC": 30.5,
         "lowC": 23.9,
-        "precipitationProbability": 3,
+        "precipitationProbability": 1,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -97,7 +84,7 @@
         "date": "2026-08-20",
         "highC": 28,
         "lowC": 23.4,
-        "precipitationProbability": 41,
+        "precipitationProbability": 48,
         "condition": {
           "code": 80,
           "label": "Rain",
@@ -110,7 +97,7 @@
         "date": "2026-08-21",
         "highC": 26.5,
         "lowC": 21.3,
-        "precipitationProbability": 15,
+        "precipitationProbability": 30,
         "condition": {
           "code": 80,
           "label": "Rain",
@@ -118,6 +105,19 @@
         },
         "sunrise": "2026-08-21T10:12:00.000Z",
         "sunset": "2026-08-21T23:45:00.000Z"
+      },
+      {
+        "date": "2026-08-22",
+        "highC": 25.1,
+        "lowC": 20.6,
+        "precipitationProbability": 38,
+        "condition": {
+          "code": 82,
+          "label": "Rain",
+          "icon": "rain"
+        },
+        "sunrise": "2026-08-22T10:13:00.000Z",
+        "sunset": "2026-08-22T23:44:00.000Z"
       }
     ]
   }
