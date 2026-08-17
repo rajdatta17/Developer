@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T04:04:17.211Z",
-  "lastAttemptAt": "2026-08-17T04:04:17.211Z",
+  "generatedAt": "2026-08-17T07:17:43.009Z",
+  "lastAttemptAt": "2026-08-17T07:17:43.009Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-08-17T04:04:17.211Z",
+    "lastSuccessfulAt": "2026-08-17T07:17:43.009Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,14 +23,14 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-08-17T04:00:00.000Z",
-      "temperatureC": 20.1,
-      "feelsLikeC": 22,
-      "highC": 30.8,
-      "lowC": 20.1,
-      "precipitationProbability": 73,
-      "windSpeedKph": 8.3,
-      "windDirectionDegrees": 124,
+      "observedAt": "2026-08-17T07:15:00.000Z",
+      "temperatureC": 20.7,
+      "feelsLikeC": 22.7,
+      "highC": 28,
+      "lowC": 19.9,
+      "precipitationProbability": 70,
+      "windSpeedKph": 9.4,
+      "windDirectionDegrees": 133,
       "condition": {
         "code": 3,
         "label": "Overcast",
@@ -43,11 +43,11 @@
     "forecast": [
       {
         "date": "2026-08-17",
-        "highC": 30.8,
-        "lowC": 20.1,
-        "precipitationProbability": 73,
+        "highC": 28,
+        "lowC": 19.9,
+        "precipitationProbability": 70,
         "condition": {
-          "code": 63,
+          "code": 80,
           "label": "Rain",
           "icon": "rain"
         },
@@ -58,7 +58,7 @@
         "date": "2026-08-18",
         "highC": 29.5,
         "lowC": 21.3,
-        "precipitationProbability": 9,
+        "precipitationProbability": 10,
         "condition": {
           "code": 81,
           "label": "Rain",
@@ -69,8 +69,8 @@
       },
       {
         "date": "2026-08-19",
-        "highC": 30.5,
-        "lowC": 23.9,
+        "highC": 31.8,
+        "lowC": 24,
         "precipitationProbability": 1,
         "condition": {
           "code": 3,
@@ -82,39 +82,39 @@
       },
       {
         "date": "2026-08-20",
-        "highC": 28,
-        "lowC": 23.4,
+        "highC": 31.3,
+        "lowC": 25.6,
         "precipitationProbability": 48,
         "condition": {
-          "code": 80,
-          "label": "Rain",
-          "icon": "rain"
+          "code": 51,
+          "label": "Drizzle",
+          "icon": "drizzle"
         },
         "sunrise": "2026-08-20T10:11:00.000Z",
         "sunset": "2026-08-20T23:47:00.000Z"
       },
       {
         "date": "2026-08-21",
-        "highC": 26.5,
-        "lowC": 21.3,
+        "highC": 28,
+        "lowC": 22.4,
         "precipitationProbability": 30,
         "condition": {
-          "code": 80,
-          "label": "Rain",
-          "icon": "rain"
+          "code": 3,
+          "label": "Overcast",
+          "icon": "cloudy"
         },
         "sunrise": "2026-08-21T10:12:00.000Z",
         "sunset": "2026-08-21T23:45:00.000Z"
       },
       {
         "date": "2026-08-22",
-        "highC": 25.1,
-        "lowC": 20.6,
+        "highC": 24.3,
+        "lowC": 22.6,
         "precipitationProbability": 38,
         "condition": {
-          "code": 82,
-          "label": "Rain",
-          "icon": "rain"
+          "code": 51,
+          "label": "Drizzle",
+          "icon": "drizzle"
         },
         "sunrise": "2026-08-22T10:13:00.000Z",
         "sunset": "2026-08-22T23:44:00.000Z"
