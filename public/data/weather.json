@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-18T01:52:05.184Z",
-  "lastAttemptAt": "2026-08-18T01:52:05.184Z",
+  "generatedAt": "2026-08-18T03:59:47.543Z",
+  "lastAttemptAt": "2026-08-18T03:59:47.543Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-08-18T01:52:05.184Z",
+    "lastSuccessfulAt": "2026-08-18T03:59:47.543Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,18 +23,18 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-08-18T01:45:00.000Z",
-      "temperatureC": 22.2,
-      "feelsLikeC": 26,
+      "observedAt": "2026-08-18T03:45:00.000Z",
+      "temperatureC": 22.9,
+      "feelsLikeC": 27.5,
       "highC": 26.9,
       "lowC": 19.9,
       "precipitationProbability": 69,
-      "windSpeedKph": 4.8,
-      "windDirectionDegrees": 63,
+      "windSpeedKph": 1.6,
+      "windDirectionDegrees": 207,
       "condition": {
-        "code": 3,
-        "label": "Overcast",
-        "icon": "cloudy"
+        "code": 0,
+        "label": "Clear",
+        "icon": "clear"
       },
       "sunrise": "2026-08-17T10:08:00.000Z",
       "sunset": "2026-08-17T23:51:00.000Z",
@@ -57,7 +57,7 @@
       {
         "date": "2026-08-18",
         "highC": 29.1,
-        "lowC": 20.6,
+        "lowC": 22.3,
         "precipitationProbability": 14,
         "condition": {
           "code": 82,
