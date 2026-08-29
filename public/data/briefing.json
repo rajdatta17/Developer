@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T20:57:17.662Z",
-  "lastAttemptAt": "2026-08-29T20:57:17.662Z",
+  "generatedAt": "2026-08-29T23:22:06.722Z",
+  "lastAttemptAt": "2026-08-29T23:22:06.722Z",
   "source": {
     "id": "daybreak-deterministic",
     "name": "Daybreak deterministic briefing",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-08-29T20:57:17.662Z",
+    "lastSuccessfulAt": "2026-08-29T23:22:06.722Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 180,
     "expiresAfterMinutes": 720
@@ -59,12 +59,12 @@
       {
         "topic": "cricket",
         "freshness": "fresh",
-        "generatedAt": "2026-08-29T20:57:17.662Z"
+        "generatedAt": "2026-08-29T23:22:06.722Z"
       },
       {
         "topic": "football",
         "freshness": "fresh",
-        "generatedAt": "2026-08-29T20:57:17.662Z"
+        "generatedAt": "2026-08-29T23:22:06.722Z"
       }
     ]
   }
