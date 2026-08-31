@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-31T05:39:54.236Z",
-  "lastAttemptAt": "2026-08-31T05:39:54.236Z",
+  "generatedAt": "2026-08-31T13:55:53.993Z",
+  "lastAttemptAt": "2026-08-31T13:55:53.993Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-08-31T05:39:54.236Z",
+    "lastSuccessfulAt": "2026-08-31T13:55:53.993Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,31 +23,31 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-08-31T05:30:00.000Z",
-      "temperatureC": 21.8,
+      "observedAt": "2026-08-31T13:45:00.000Z",
+      "temperatureC": 22.5,
       "feelsLikeC": 24.3,
-      "highC": 25.3,
-      "lowC": 20.4,
-      "precipitationProbability": 20,
-      "windSpeedKph": 5,
-      "windDirectionDegrees": 291,
+      "highC": 25.2,
+      "lowC": 20.7,
+      "precipitationProbability": 27,
+      "windSpeedKph": 10.4,
+      "windDirectionDegrees": 20,
       "condition": {
-        "code": 2,
-        "label": "Partly cloudy",
-        "icon": "partly-cloudy"
+        "code": 3,
+        "label": "Overcast",
+        "icon": "cloudy"
       },
       "sunrise": "2026-08-31T10:22:00.000Z",
       "sunset": "2026-08-31T23:30:00.000Z",
-      "isDay": false
+      "isDay": true
     },
     "forecast": [
       {
         "date": "2026-08-31",
-        "highC": 25.3,
-        "lowC": 20.4,
-        "precipitationProbability": 20,
+        "highC": 25.2,
+        "lowC": 20.7,
+        "precipitationProbability": 27,
         "condition": {
-          "code": 53,
+          "code": 51,
           "label": "Drizzle",
           "icon": "drizzle"
         },
@@ -56,61 +56,61 @@
       },
       {
         "date": "2026-09-01",
-        "highC": 31.8,
-        "lowC": 20.7,
-        "precipitationProbability": 64,
+        "highC": 27.4,
+        "lowC": 21,
+        "precipitationProbability": 48,
         "condition": {
-          "code": 55,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 82,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-09-01T10:23:00.000Z",
         "sunset": "2026-09-01T23:28:00.000Z"
       },
       {
         "date": "2026-09-02",
-        "highC": 23.8,
-        "lowC": 21.6,
+        "highC": 24.5,
+        "lowC": 21.5,
         "precipitationProbability": 47,
         "condition": {
-          "code": 95,
-          "label": "Thunderstorms",
-          "icon": "storm"
+          "code": 51,
+          "label": "Drizzle",
+          "icon": "drizzle"
         },
         "sunrise": "2026-09-02T10:24:00.000Z",
         "sunset": "2026-09-02T23:26:00.000Z"
       },
       {
         "date": "2026-09-03",
-        "highC": 29.4,
-        "lowC": 21.4,
-        "precipitationProbability": 49,
+        "highC": 29.9,
+        "lowC": 22.8,
+        "precipitationProbability": 46,
         "condition": {
-          "code": 95,
-          "label": "Thunderstorms",
-          "icon": "storm"
+          "code": 80,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-09-03T10:25:00.000Z",
         "sunset": "2026-09-03T23:25:00.000Z"
       },
       {
         "date": "2026-09-04",
-        "highC": 29.3,
-        "lowC": 21.2,
-        "precipitationProbability": 33,
+        "highC": 30.8,
+        "lowC": 23.5,
+        "precipitationProbability": 39,
         "condition": {
-          "code": 3,
-          "label": "Overcast",
-          "icon": "cloudy"
+          "code": 80,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-09-04T10:26:00.000Z",
         "sunset": "2026-09-04T23:23:00.000Z"
       },
       {
         "date": "2026-09-05",
-        "highC": 26.6,
-        "lowC": 20,
-        "precipitationProbability": 20,
+        "highC": 27.2,
+        "lowC": 20.1,
+        "precipitationProbability": 19,
         "condition": {
           "code": 3,
           "label": "Overcast",
