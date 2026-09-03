@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T21:04:39.343Z",
-  "lastAttemptAt": "2026-09-03T21:04:39.343Z",
+  "generatedAt": "2026-09-03T23:18:12.174Z",
+  "lastAttemptAt": "2026-09-03T23:18:12.174Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-09-03T21:04:39.343Z",
+    "lastSuccessfulAt": "2026-09-03T23:18:12.174Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,18 +23,18 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-09-03T21:00:00.000Z",
-      "temperatureC": 28.2,
-      "feelsLikeC": 30.5,
-      "highC": 29.3,
+      "observedAt": "2026-09-03T23:15:00.000Z",
+      "temperatureC": 26,
+      "feelsLikeC": 30.3,
+      "highC": 30,
       "lowC": 20,
       "precipitationProbability": 80,
-      "windSpeedKph": 15.5,
-      "windDirectionDegrees": 228,
+      "windSpeedKph": 5.1,
+      "windDirectionDegrees": 225,
       "condition": {
-        "code": 0,
-        "label": "Clear",
-        "icon": "clear"
+        "code": 2,
+        "label": "Partly cloudy",
+        "icon": "partly-cloudy"
       },
       "sunrise": "2026-09-03T10:25:00.000Z",
       "sunset": "2026-09-03T23:25:00.000Z",
@@ -43,7 +43,7 @@
     "forecast": [
       {
         "date": "2026-09-03",
-        "highC": 29.3,
+        "highC": 30,
         "lowC": 20,
         "precipitationProbability": 80,
         "condition": {
@@ -57,12 +57,12 @@
       {
         "date": "2026-09-04",
         "highC": 29.8,
-        "lowC": 21.7,
-        "precipitationProbability": 32,
+        "lowC": 22.3,
+        "precipitationProbability": 36,
         "condition": {
-          "code": 65,
-          "label": "Rain",
-          "icon": "rain"
+          "code": 53,
+          "label": "Drizzle",
+          "icon": "drizzle"
         },
         "sunrise": "2026-09-04T10:26:00.000Z",
         "sunset": "2026-09-04T23:23:00.000Z"
