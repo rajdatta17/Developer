@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T20:35:11.220Z",
-  "lastAttemptAt": "2026-09-12T20:35:11.220Z",
+  "generatedAt": "2026-09-12T23:04:12.283Z",
+  "lastAttemptAt": "2026-09-12T23:04:12.283Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-09-12T20:35:11.220Z",
+    "lastSuccessfulAt": "2026-09-12T23:04:12.283Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,18 +23,18 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-09-12T20:30:00.000Z",
-      "temperatureC": 24.9,
-      "feelsLikeC": 24.1,
+      "observedAt": "2026-09-12T23:00:00.000Z",
+      "temperatureC": 22.3,
+      "feelsLikeC": 22.4,
       "highC": 26.3,
       "lowC": 16.7,
       "precipitationProbability": 1,
-      "windSpeedKph": 17.5,
-      "windDirectionDegrees": 143,
+      "windSpeedKph": 14.1,
+      "windDirectionDegrees": 148,
       "condition": {
-        "code": 0,
-        "label": "Clear",
-        "icon": "clear"
+        "code": 3,
+        "label": "Overcast",
+        "icon": "cloudy"
       },
       "sunrise": "2026-09-12T10:33:00.000Z",
       "sunset": "2026-09-12T23:09:00.000Z",
@@ -57,10 +57,10 @@
       {
         "date": "2026-09-13",
         "highC": 26.2,
-        "lowC": 19.7,
-        "precipitationProbability": 70,
+        "lowC": 19.9,
+        "precipitationProbability": 76,
         "condition": {
-          "code": 63,
+          "code": 65,
           "label": "Rain",
           "icon": "rain"
         },
@@ -71,7 +71,7 @@
         "date": "2026-09-14",
         "highC": 24.9,
         "lowC": 18.5,
-        "precipitationProbability": 33,
+        "precipitationProbability": 24,
         "condition": {
           "code": 51,
           "label": "Drizzle",
@@ -110,7 +110,7 @@
         "date": "2026-09-17",
         "highC": 25,
         "lowC": 19.8,
-        "precipitationProbability": 10,
+        "precipitationProbability": 9,
         "condition": {
           "code": 0,
           "label": "Clear",
