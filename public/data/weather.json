@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T20:51:27.413Z",
-  "lastAttemptAt": "2026-09-20T20:51:27.413Z",
+  "generatedAt": "2026-09-20T23:16:00.511Z",
+  "lastAttemptAt": "2026-09-20T23:16:00.511Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-09-20T20:51:27.413Z",
+    "lastSuccessfulAt": "2026-09-20T23:16:00.511Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,33 +23,33 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-09-20T20:45:00.000Z",
-      "temperatureC": 20.2,
-      "feelsLikeC": 21.8,
-      "highC": 20.5,
+      "observedAt": "2026-09-20T23:15:00.000Z",
+      "temperatureC": 20.1,
+      "feelsLikeC": 23.2,
+      "highC": 20.4,
       "lowC": 17.6,
       "precipitationProbability": 69,
-      "windSpeedKph": 11.9,
-      "windDirectionDegrees": 178,
+      "windSpeedKph": 2,
+      "windDirectionDegrees": 135,
       "condition": {
-        "code": 53,
-        "label": "Drizzle",
-        "icon": "drizzle"
+        "code": 2,
+        "label": "Partly cloudy",
+        "icon": "partly-cloudy"
       },
       "sunrise": "2026-09-20T10:41:00.000Z",
       "sunset": "2026-09-20T22:56:00.000Z",
-      "isDay": true
+      "isDay": false
     },
     "forecast": [
       {
         "date": "2026-09-20",
-        "highC": 20.5,
+        "highC": 20.4,
         "lowC": 17.6,
         "precipitationProbability": 69,
         "condition": {
-          "code": 53,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 63,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-09-20T10:41:00.000Z",
         "sunset": "2026-09-20T22:56:00.000Z"
@@ -58,7 +58,7 @@
         "date": "2026-09-21",
         "highC": 21.7,
         "lowC": 14.7,
-        "precipitationProbability": 23,
+        "precipitationProbability": 18,
         "condition": {
           "code": 3,
           "label": "Overcast",
