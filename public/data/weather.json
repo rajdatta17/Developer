@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-25T05:00:54.308Z",
-  "lastAttemptAt": "2026-09-25T05:00:54.308Z",
+  "generatedAt": "2026-09-25T11:54:33.131Z",
+  "lastAttemptAt": "2026-09-25T11:54:33.131Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-09-25T05:00:54.308Z",
+    "lastSuccessfulAt": "2026-09-25T11:54:33.131Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,14 +23,14 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-09-25T05:00:00.000Z",
-      "temperatureC": 11.7,
-      "feelsLikeC": 7.9,
-      "highC": 22.1,
-      "lowC": 9.6,
-      "precipitationProbability": 15,
-      "windSpeedKph": 16.3,
-      "windDirectionDegrees": 22,
+      "observedAt": "2026-09-25T11:45:00.000Z",
+      "temperatureC": 12.8,
+      "feelsLikeC": 9.2,
+      "highC": 21.9,
+      "lowC": 12.2,
+      "precipitationProbability": 18,
+      "windSpeedKph": 18.8,
+      "windDirectionDegrees": 7,
       "condition": {
         "code": 3,
         "label": "Overcast",
@@ -38,27 +38,27 @@
       },
       "sunrise": "2026-09-25T10:46:00.000Z",
       "sunset": "2026-09-25T22:47:00.000Z",
-      "isDay": false
+      "isDay": true
     },
     "forecast": [
       {
         "date": "2026-09-25",
-        "highC": 22.1,
-        "lowC": 9.6,
-        "precipitationProbability": 15,
+        "highC": 21.9,
+        "lowC": 12.2,
+        "precipitationProbability": 18,
         "condition": {
-          "code": 3,
-          "label": "Overcast",
-          "icon": "cloudy"
+          "code": 53,
+          "label": "Drizzle",
+          "icon": "drizzle"
         },
         "sunrise": "2026-09-25T10:46:00.000Z",
         "sunset": "2026-09-25T22:47:00.000Z"
       },
       {
         "date": "2026-09-26",
-        "highC": 15.6,
-        "lowC": 12.4,
-        "precipitationProbability": 78,
+        "highC": 15.1,
+        "lowC": 11.9,
+        "precipitationProbability": 80,
         "condition": {
           "code": 65,
           "label": "Rain",
@@ -70,10 +70,10 @@
       {
         "date": "2026-09-27",
         "highC": 16.2,
-        "lowC": 13.2,
-        "precipitationProbability": 78,
+        "lowC": 12.4,
+        "precipitationProbability": 87,
         "condition": {
-          "code": 65,
+          "code": 81,
           "label": "Rain",
           "icon": "rain"
         },
@@ -82,39 +82,39 @@
       },
       {
         "date": "2026-09-28",
-        "highC": 15.7,
-        "lowC": 14.1,
-        "precipitationProbability": 60,
+        "highC": 14.8,
+        "lowC": 14,
+        "precipitationProbability": 73,
         "condition": {
-          "code": 51,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 80,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-09-28T10:49:00.000Z",
         "sunset": "2026-09-28T22:42:00.000Z"
       },
       {
         "date": "2026-09-29",
-        "highC": 19.4,
+        "highC": 20.3,
         "lowC": 14,
-        "precipitationProbability": 5,
+        "precipitationProbability": 10,
         "condition": {
-          "code": 3,
-          "label": "Overcast",
-          "icon": "cloudy"
+          "code": 51,
+          "label": "Drizzle",
+          "icon": "drizzle"
         },
         "sunrise": "2026-09-29T10:50:00.000Z",
         "sunset": "2026-09-29T22:41:00.000Z"
       },
       {
         "date": "2026-09-30",
-        "highC": 24.4,
-        "lowC": 17.2,
-        "precipitationProbability": 10,
+        "highC": 24.2,
+        "lowC": 16.7,
+        "precipitationProbability": 6,
         "condition": {
-          "code": 53,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 3,
+          "label": "Overcast",
+          "icon": "cloudy"
         },
         "sunrise": "2026-09-30T10:51:00.000Z",
         "sunset": "2026-09-30T22:39:00.000Z"
