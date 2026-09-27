@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T16:59:57.946Z",
-  "lastAttemptAt": "2026-09-27T16:59:57.946Z",
+  "generatedAt": "2026-09-27T21:22:56.792Z",
+  "lastAttemptAt": "2026-09-27T21:22:56.792Z",
   "source": {
     "id": "daybreak-deterministic",
     "name": "Daybreak deterministic briefing",
@@ -10,14 +10,14 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-09-27T16:59:57.946Z",
+    "lastSuccessfulAt": "2026-09-27T21:22:56.792Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 180,
     "expiresAfterMinutes": 720
   },
   "briefing": {
     "sentences": [
-      "Overcast conditions lead the day in New York, with a high near 19°C and a 100% chance of precipitation.",
+      "Rain conditions lead the day in New York, with a high near 17°C and a 100% chance of precipitation.",
       "India and England are live in International Test — demonstration feed at 286/6–247; lunch, day two.",
       "Arsenal and Liverpool are next up in Premier League — demonstration feed; kickoff at 3:00 pm et."
     ],
@@ -54,17 +54,17 @@
       {
         "topic": "weather",
         "freshness": "fresh",
-        "generatedAt": "2026-09-27T16:59:57.946Z"
+        "generatedAt": "2026-09-27T21:22:56.792Z"
       },
       {
         "topic": "cricket",
         "freshness": "fresh",
-        "generatedAt": "2026-09-27T16:59:57.946Z"
+        "generatedAt": "2026-09-27T21:22:56.792Z"
       },
       {
         "topic": "football",
         "freshness": "fresh",
-        "generatedAt": "2026-09-27T16:59:57.946Z"
+        "generatedAt": "2026-09-27T21:22:56.792Z"
       }
     ]
   }
