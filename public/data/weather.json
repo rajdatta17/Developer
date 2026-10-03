@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-02T22:16:52.626Z",
-  "lastAttemptAt": "2026-10-02T22:16:52.626Z",
+  "generatedAt": "2026-10-03T05:22:01.349Z",
+  "lastAttemptAt": "2026-10-03T05:22:01.349Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-02T22:16:52.626Z",
+    "lastSuccessfulAt": "2026-10-03T05:22:01.349Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,55 +23,42 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-10-02T22:15:00.000Z",
-      "temperatureC": 27.2,
-      "feelsLikeC": 28,
-      "highC": 30,
-      "lowC": 18.5,
-      "precipitationProbability": 35,
-      "windSpeedKph": 13.2,
-      "windDirectionDegrees": 250,
+      "observedAt": "2026-10-03T05:15:00.000Z",
+      "temperatureC": 18.1,
+      "feelsLikeC": 17.2,
+      "highC": 22.4,
+      "lowC": 13.9,
+      "precipitationProbability": 9,
+      "windSpeedKph": 11.3,
+      "windDirectionDegrees": 358,
       "condition": {
-        "code": 1,
+        "code": 2,
         "label": "Partly cloudy",
         "icon": "partly-cloudy"
       },
-      "sunrise": "2026-10-02T10:53:00.000Z",
-      "sunset": "2026-10-02T22:36:00.000Z",
-      "isDay": true
+      "sunrise": "2026-10-03T10:54:00.000Z",
+      "sunset": "2026-10-03T22:34:00.000Z",
+      "isDay": false
     },
     "forecast": [
       {
-        "date": "2026-10-02",
-        "highC": 30,
-        "lowC": 18.5,
-        "precipitationProbability": 35,
+        "date": "2026-10-03",
+        "highC": 22.4,
+        "lowC": 13.9,
+        "precipitationProbability": 9,
         "condition": {
           "code": 3,
           "label": "Overcast",
           "icon": "cloudy"
-        },
-        "sunrise": "2026-10-02T10:53:00.000Z",
-        "sunset": "2026-10-02T22:36:00.000Z"
-      },
-      {
-        "date": "2026-10-03",
-        "highC": 22,
-        "lowC": 13.7,
-        "precipitationProbability": 11,
-        "condition": {
-          "code": 51,
-          "label": "Drizzle",
-          "icon": "drizzle"
         },
         "sunrise": "2026-10-03T10:54:00.000Z",
         "sunset": "2026-10-03T22:34:00.000Z"
       },
       {
         "date": "2026-10-04",
-        "highC": 16.9,
+        "highC": 16.4,
         "lowC": 11.7,
-        "precipitationProbability": 60,
+        "precipitationProbability": 61,
         "condition": {
           "code": 53,
           "label": "Drizzle",
@@ -82,11 +69,11 @@
       },
       {
         "date": "2026-10-05",
-        "highC": 21.7,
-        "lowC": 14.4,
-        "precipitationProbability": 28,
+        "highC": 22,
+        "lowC": 14.8,
+        "precipitationProbability": 34,
         "condition": {
-          "code": 55,
+          "code": 51,
           "label": "Drizzle",
           "icon": "drizzle"
         },
@@ -95,8 +82,8 @@
       },
       {
         "date": "2026-10-06",
-        "highC": 17,
-        "lowC": 9.6,
+        "highC": 16.9,
+        "lowC": 9.1,
         "precipitationProbability": 0,
         "condition": {
           "code": 0,
@@ -108,16 +95,29 @@
       },
       {
         "date": "2026-10-07",
-        "highC": 17.9,
-        "lowC": 10.2,
+        "highC": 18.9,
+        "lowC": 10.6,
         "precipitationProbability": 0,
         "condition": {
-          "code": 0,
-          "label": "Clear",
-          "icon": "clear"
+          "code": 2,
+          "label": "Partly cloudy",
+          "icon": "partly-cloudy"
         },
         "sunrise": "2026-10-07T10:58:00.000Z",
         "sunset": "2026-10-07T22:28:00.000Z"
+      },
+      {
+        "date": "2026-10-08",
+        "highC": 22.6,
+        "lowC": 13.8,
+        "precipitationProbability": 0,
+        "condition": {
+          "code": 2,
+          "label": "Partly cloudy",
+          "icon": "partly-cloudy"
+        },
+        "sunrise": "2026-10-08T10:59:00.000Z",
+        "sunset": "2026-10-08T22:26:00.000Z"
       }
     ]
   }
