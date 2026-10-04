@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T21:19:57.320Z",
-  "lastAttemptAt": "2026-10-03T21:19:57.320Z",
+  "generatedAt": "2026-10-04T05:57:56.845Z",
+  "lastAttemptAt": "2026-10-04T05:57:56.845Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-03T21:19:57.320Z",
+    "lastSuccessfulAt": "2026-10-04T05:57:56.845Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,44 +23,31 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-10-03T21:15:00.000Z",
-      "temperatureC": 22,
-      "feelsLikeC": 19.6,
-      "highC": 22.5,
-      "lowC": 14.7,
-      "precipitationProbability": 16,
-      "windSpeedKph": 10.4,
-      "windDirectionDegrees": 71,
+      "observedAt": "2026-10-04T05:45:00.000Z",
+      "temperatureC": 13.8,
+      "feelsLikeC": 13.5,
+      "highC": 16.3,
+      "lowC": 12.2,
+      "precipitationProbability": 54,
+      "windSpeedKph": 7.6,
+      "windDirectionDegrees": 40,
       "condition": {
         "code": 0,
         "label": "Clear",
         "icon": "clear"
       },
-      "sunrise": "2026-10-03T10:54:00.000Z",
-      "sunset": "2026-10-03T22:34:00.000Z",
-      "isDay": true
+      "sunrise": "2026-10-04T10:55:00.000Z",
+      "sunset": "2026-10-04T22:32:00.000Z",
+      "isDay": false
     },
     "forecast": [
       {
-        "date": "2026-10-03",
-        "highC": 22.5,
-        "lowC": 14.7,
-        "precipitationProbability": 16,
-        "condition": {
-          "code": 3,
-          "label": "Overcast",
-          "icon": "cloudy"
-        },
-        "sunrise": "2026-10-03T10:54:00.000Z",
-        "sunset": "2026-10-03T22:34:00.000Z"
-      },
-      {
         "date": "2026-10-04",
-        "highC": 18.6,
-        "lowC": 12.5,
-        "precipitationProbability": 48,
+        "highC": 16.3,
+        "lowC": 12.2,
+        "precipitationProbability": 54,
         "condition": {
-          "code": 53,
+          "code": 51,
           "label": "Drizzle",
           "icon": "drizzle"
         },
@@ -69,9 +56,9 @@
       },
       {
         "date": "2026-10-05",
-        "highC": 19.7,
-        "lowC": 12.5,
-        "precipitationProbability": 3,
+        "highC": 19,
+        "lowC": 11.3,
+        "precipitationProbability": 6,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -82,8 +69,8 @@
       },
       {
         "date": "2026-10-06",
-        "highC": 18.5,
-        "lowC": 9.9,
+        "highC": 18.3,
+        "lowC": 9.8,
         "precipitationProbability": 0,
         "condition": {
           "code": 0,
@@ -95,22 +82,22 @@
       },
       {
         "date": "2026-10-07",
-        "highC": 21.6,
-        "lowC": 12.8,
-        "precipitationProbability": 0,
+        "highC": 21.8,
+        "lowC": 12.9,
+        "precipitationProbability": 1,
         "condition": {
-          "code": 0,
-          "label": "Clear",
-          "icon": "clear"
+          "code": 1,
+          "label": "Partly cloudy",
+          "icon": "partly-cloudy"
         },
         "sunrise": "2026-10-07T10:58:00.000Z",
         "sunset": "2026-10-07T22:28:00.000Z"
       },
       {
         "date": "2026-10-08",
-        "highC": 22.9,
-        "lowC": 14.8,
-        "precipitationProbability": 0,
+        "highC": 25.1,
+        "lowC": 15.5,
+        "precipitationProbability": 1,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -118,6 +105,19 @@
         },
         "sunrise": "2026-10-08T10:59:00.000Z",
         "sunset": "2026-10-08T22:26:00.000Z"
+      },
+      {
+        "date": "2026-10-09",
+        "highC": 21.2,
+        "lowC": 14.5,
+        "precipitationProbability": 1,
+        "condition": {
+          "code": 0,
+          "label": "Clear",
+          "icon": "clear"
+        },
+        "sunrise": "2026-10-09T11:00:00.000Z",
+        "sunset": "2026-10-09T22:24:00.000Z"
       }
     ]
   }
