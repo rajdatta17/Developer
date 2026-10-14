@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T19:18:59.843Z",
-  "lastAttemptAt": "2026-10-13T19:18:59.843Z",
+  "generatedAt": "2026-10-14T00:19:48.378Z",
+  "lastAttemptAt": "2026-10-14T00:19:48.378Z",
   "source": {
     "id": "mock-cricket",
     "name": "Daybreak Cricket Demo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-13T19:18:59.843Z",
+    "lastSuccessfulAt": "2026-10-14T00:19:48.378Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 180,
     "expiresAfterMinutes": 720
