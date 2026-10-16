@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T21:12:43.308Z",
-  "lastAttemptAt": "2026-10-16T21:12:43.308Z",
+  "generatedAt": "2026-10-16T23:38:16.538Z",
+  "lastAttemptAt": "2026-10-16T23:38:16.538Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-16T21:12:43.308Z",
+    "lastSuccessfulAt": "2026-10-16T23:38:16.538Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,14 +23,14 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-10-16T21:00:00.000Z",
-      "temperatureC": 21.2,
+      "observedAt": "2026-10-16T23:30:00.000Z",
+      "temperatureC": 21.1,
       "feelsLikeC": 22.4,
-      "highC": 21.7,
+      "highC": 22.5,
       "lowC": 13.8,
-      "precipitationProbability": 58,
-      "windSpeedKph": 15.2,
-      "windDirectionDegrees": 208,
+      "precipitationProbability": 59,
+      "windSpeedKph": 13.4,
+      "windDirectionDegrees": 278,
       "condition": {
         "code": 3,
         "label": "Overcast",
@@ -38,16 +38,16 @@
       },
       "sunrise": "2026-10-16T11:08:00.000Z",
       "sunset": "2026-10-16T22:14:00.000Z",
-      "isDay": true
+      "isDay": false
     },
     "forecast": [
       {
         "date": "2026-10-16",
-        "highC": 21.7,
+        "highC": 22.5,
         "lowC": 13.8,
-        "precipitationProbability": 58,
+        "precipitationProbability": 59,
         "condition": {
-          "code": 53,
+          "code": 51,
           "label": "Drizzle",
           "icon": "drizzle"
         },
@@ -56,11 +56,11 @@
       },
       {
         "date": "2026-10-17",
-        "highC": 15.8,
+        "highC": 16.3,
         "lowC": 2.2,
-        "precipitationProbability": 34,
+        "precipitationProbability": 25,
         "condition": {
-          "code": 51,
+          "code": 53,
           "label": "Drizzle",
           "icon": "drizzle"
         },
