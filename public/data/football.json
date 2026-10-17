@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T10:48:34.192Z",
-  "lastAttemptAt": "2026-10-17T10:48:34.192Z",
+  "generatedAt": "2026-10-17T15:38:19.528Z",
+  "lastAttemptAt": "2026-10-17T15:38:19.528Z",
   "source": {
     "id": "mock-football",
     "name": "Daybreak Football Demo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-17T10:48:34.192Z",
+    "lastSuccessfulAt": "2026-10-17T15:38:19.528Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 180,
     "expiresAfterMinutes": 720
