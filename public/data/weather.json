@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T20:47:23.182Z",
-  "lastAttemptAt": "2026-10-18T20:47:23.182Z",
+  "generatedAt": "2026-10-18T23:16:06.727Z",
+  "lastAttemptAt": "2026-10-18T23:16:06.727Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-18T20:47:23.182Z",
+    "lastSuccessfulAt": "2026-10-18T23:16:06.727Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,14 +23,14 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-10-18T20:45:00.000Z",
-      "temperatureC": 15.1,
-      "feelsLikeC": 11.9,
-      "highC": 15.7,
+      "observedAt": "2026-10-18T23:15:00.000Z",
+      "temperatureC": 11.1,
+      "feelsLikeC": 8,
+      "highC": 15.8,
       "lowC": 2.9,
       "precipitationProbability": 0,
-      "windSpeedKph": 5.4,
-      "windDirectionDegrees": 11,
+      "windSpeedKph": 7.4,
+      "windDirectionDegrees": 152,
       "condition": {
         "code": 0,
         "label": "Clear",
@@ -38,12 +38,12 @@
       },
       "sunrise": "2026-10-18T11:10:00.000Z",
       "sunset": "2026-10-18T22:11:00.000Z",
-      "isDay": true
+      "isDay": false
     },
     "forecast": [
       {
         "date": "2026-10-18",
-        "highC": 15.7,
+        "highC": 15.8,
         "lowC": 2.9,
         "precipitationProbability": 0,
         "condition": {
@@ -57,7 +57,7 @@
       {
         "date": "2026-10-19",
         "highC": 15.8,
-        "lowC": 3.9,
+        "lowC": 4.2,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
@@ -84,7 +84,7 @@
         "date": "2026-10-21",
         "highC": 16.5,
         "lowC": 9.4,
-        "precipitationProbability": 10,
+        "precipitationProbability": 6,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -97,7 +97,7 @@
         "date": "2026-10-22",
         "highC": 18.9,
         "lowC": 9.5,
-        "precipitationProbability": 10,
+        "precipitationProbability": 6,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -110,7 +110,7 @@
         "date": "2026-10-23",
         "highC": 15.8,
         "lowC": 10.3,
-        "precipitationProbability": 2,
+        "precipitationProbability": 0,
         "condition": {
           "code": 3,
           "label": "Overcast",
