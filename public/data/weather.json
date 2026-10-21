@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T11:53:59.465Z",
-  "lastAttemptAt": "2026-10-21T11:53:59.465Z",
+  "generatedAt": "2026-10-21T17:15:20.548Z",
+  "lastAttemptAt": "2026-10-21T17:15:20.548Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-21T11:53:59.465Z",
+    "lastSuccessfulAt": "2026-10-21T17:15:20.548Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,18 +23,18 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-10-21T11:45:00.000Z",
-      "temperatureC": 8.4,
-      "feelsLikeC": 4.3,
-      "highC": 18,
-      "lowC": 8.1,
+      "observedAt": "2026-10-21T17:15:00.000Z",
+      "temperatureC": 17.2,
+      "feelsLikeC": 12.9,
+      "highC": 17.9,
+      "lowC": 8.6,
       "precipitationProbability": 0,
-      "windSpeedKph": 14.4,
-      "windDirectionDegrees": 17,
+      "windSpeedKph": 20.9,
+      "windDirectionDegrees": 34,
       "condition": {
-        "code": 0,
-        "label": "Clear",
-        "icon": "clear"
+        "code": 3,
+        "label": "Overcast",
+        "icon": "cloudy"
       },
       "sunrise": "2026-10-21T11:13:00.000Z",
       "sunset": "2026-10-21T22:06:00.000Z",
@@ -43,8 +43,8 @@
     "forecast": [
       {
         "date": "2026-10-21",
-        "highC": 18,
-        "lowC": 8.1,
+        "highC": 17.9,
+        "lowC": 8.6,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
@@ -56,8 +56,8 @@
       },
       {
         "date": "2026-10-22",
-        "highC": 18.7,
-        "lowC": 5.9,
+        "highC": 18.5,
+        "lowC": 5.6,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
@@ -70,12 +70,12 @@
       {
         "date": "2026-10-23",
         "highC": 15.2,
-        "lowC": 8.5,
+        "lowC": 5.8,
         "precipitationProbability": 0,
         "condition": {
-          "code": 2,
-          "label": "Partly cloudy",
-          "icon": "partly-cloudy"
+          "code": 3,
+          "label": "Overcast",
+          "icon": "cloudy"
         },
         "sunrise": "2026-10-23T11:16:00.000Z",
         "sunset": "2026-10-23T22:03:00.000Z"
@@ -112,9 +112,9 @@
         "lowC": 10.5,
         "precipitationProbability": 0,
         "condition": {
-          "code": 0,
-          "label": "Clear",
-          "icon": "clear"
+          "code": 3,
+          "label": "Overcast",
+          "icon": "cloudy"
         },
         "sunrise": "2026-10-26T11:19:00.000Z",
         "sunset": "2026-10-26T21:59:00.000Z"
