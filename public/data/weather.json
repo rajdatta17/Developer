@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T11:57:23.240Z",
-  "lastAttemptAt": "2026-10-22T11:57:23.240Z",
+  "generatedAt": "2026-10-22T17:13:36.592Z",
+  "lastAttemptAt": "2026-10-22T17:13:36.592Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-22T11:57:23.240Z",
+    "lastSuccessfulAt": "2026-10-22T17:13:36.592Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,14 +23,14 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-10-22T11:45:00.000Z",
-      "temperatureC": 6.7,
-      "feelsLikeC": 3,
-      "highC": 18.9,
-      "lowC": 6.9,
+      "observedAt": "2026-10-22T17:00:00.000Z",
+      "temperatureC": 17.2,
+      "feelsLikeC": 11.7,
+      "highC": 18.5,
+      "lowC": 7.1,
       "precipitationProbability": 0,
-      "windSpeedKph": 12.8,
-      "windDirectionDegrees": 349,
+      "windSpeedKph": 25.1,
+      "windDirectionDegrees": 344,
       "condition": {
         "code": 0,
         "label": "Clear",
@@ -43,8 +43,8 @@
     "forecast": [
       {
         "date": "2026-10-22",
-        "highC": 18.9,
-        "lowC": 6.9,
+        "highC": 18.5,
+        "lowC": 7.1,
         "precipitationProbability": 0,
         "condition": {
           "code": 0,
@@ -56,8 +56,8 @@
       },
       {
         "date": "2026-10-23",
-        "highC": 14.2,
-        "lowC": 4.9,
+        "highC": 13.4,
+        "lowC": 6.1,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
@@ -70,7 +70,7 @@
       {
         "date": "2026-10-24",
         "highC": 14.8,
-        "lowC": 6.8,
+        "lowC": 3.2,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
