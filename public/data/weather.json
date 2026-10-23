@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T11:43:14.658Z",
-  "lastAttemptAt": "2026-10-23T11:43:14.658Z",
+  "generatedAt": "2026-10-23T17:11:33.840Z",
+  "lastAttemptAt": "2026-10-23T17:11:33.840Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-23T11:43:14.658Z",
+    "lastSuccessfulAt": "2026-10-23T17:11:33.840Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,14 +23,14 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-10-23T11:30:00.000Z",
-      "temperatureC": 7.5,
-      "feelsLikeC": 4,
-      "highC": 15.7,
-      "lowC": 6.4,
+      "observedAt": "2026-10-23T17:00:00.000Z",
+      "temperatureC": 15.1,
+      "feelsLikeC": 11.4,
+      "highC": 16.3,
+      "lowC": 6.3,
       "precipitationProbability": 0,
-      "windSpeedKph": 10.5,
-      "windDirectionDegrees": 21,
+      "windSpeedKph": 13.8,
+      "windDirectionDegrees": 48,
       "condition": {
         "code": 0,
         "label": "Clear",
@@ -43,8 +43,8 @@
     "forecast": [
       {
         "date": "2026-10-23",
-        "highC": 15.7,
-        "lowC": 6.4,
+        "highC": 16.3,
+        "lowC": 6.3,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
@@ -56,8 +56,8 @@
       },
       {
         "date": "2026-10-24",
-        "highC": 16.1,
-        "lowC": 3,
+        "highC": 15.7,
+        "lowC": 3.3,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
@@ -70,7 +70,7 @@
       {
         "date": "2026-10-25",
         "highC": 18.1,
-        "lowC": 9.8,
+        "lowC": 5.5,
         "precipitationProbability": 0,
         "condition": {
           "code": 0,
@@ -110,7 +110,7 @@
         "date": "2026-10-28",
         "highC": 13.8,
         "lowC": 12.1,
-        "precipitationProbability": 0,
+        "precipitationProbability": 2,
         "condition": {
           "code": 3,
           "label": "Overcast",
