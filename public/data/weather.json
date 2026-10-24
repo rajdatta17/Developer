@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-24T20:52:46.095Z",
-  "lastAttemptAt": "2026-10-24T20:52:46.095Z",
+  "generatedAt": "2026-10-24T23:17:46.815Z",
+  "lastAttemptAt": "2026-10-24T23:17:46.815Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-10-24T20:52:46.095Z",
+    "lastSuccessfulAt": "2026-10-24T23:17:46.815Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,27 +23,27 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-10-24T20:45:00.000Z",
-      "temperatureC": 16.9,
-      "feelsLikeC": 14.1,
-      "highC": 17.4,
+      "observedAt": "2026-10-24T23:15:00.000Z",
+      "temperatureC": 12,
+      "feelsLikeC": 8.9,
+      "highC": 17.6,
       "lowC": 4.7,
       "precipitationProbability": 0,
-      "windSpeedKph": 3.7,
-      "windDirectionDegrees": 314,
+      "windSpeedKph": 7.8,
+      "windDirectionDegrees": 208,
       "condition": {
-        "code": 2,
-        "label": "Partly cloudy",
-        "icon": "partly-cloudy"
+        "code": 0,
+        "label": "Clear",
+        "icon": "clear"
       },
       "sunrise": "2026-10-24T11:17:00.000Z",
       "sunset": "2026-10-24T22:02:00.000Z",
-      "isDay": true
+      "isDay": false
     },
     "forecast": [
       {
         "date": "2026-10-24",
-        "highC": 17.4,
+        "highC": 17.6,
         "lowC": 4.7,
         "precipitationProbability": 0,
         "condition": {
@@ -57,7 +57,7 @@
       {
         "date": "2026-10-25",
         "highC": 19.6,
-        "lowC": 3.2,
+        "lowC": 3.9,
         "precipitationProbability": 0,
         "condition": {
           "code": 0,
