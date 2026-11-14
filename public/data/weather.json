@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-13T01:51:47.628Z",
-  "lastAttemptAt": "2026-11-13T19:45:36.617Z",
+  "generatedAt": "2026-11-14T01:28:05.942Z",
+  "lastAttemptAt": "2026-11-14T01:28:05.942Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -9,17 +9,11 @@
     "attribution": "Weather data by Open-Meteo"
   },
   "freshness": {
-    "status": "expired",
-    "lastSuccessfulAt": "2026-11-13T01:51:47.628Z",
-    "ageMinutes": 1073.8,
+    "status": "fresh",
+    "lastSuccessfulAt": "2026-11-14T01:28:05.942Z",
+    "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
-  },
-  "error": {
-    "code": "PROVIDER_REFRESH_FAILED",
-    "message": "fetch failed",
-    "occurredAt": "2026-11-13T19:45:36.617Z",
-    "retryable": true
   },
   "weather": {
     "location": {
@@ -29,55 +23,42 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-11-13T01:45:00.000Z",
-      "temperatureC": 8.8,
-      "feelsLikeC": 5.7,
-      "highC": 16,
-      "lowC": 8.5,
-      "precipitationProbability": 96,
-      "windSpeedKph": 16.6,
-      "windDirectionDegrees": 57,
+      "observedAt": "2026-11-14T01:15:00.000Z",
+      "temperatureC": 4.7,
+      "feelsLikeC": 1.7,
+      "highC": 8.7,
+      "lowC": 2.3,
+      "precipitationProbability": 71,
+      "windSpeedKph": 9.4,
+      "windDirectionDegrees": 342,
       "condition": {
         "code": 3,
         "label": "Overcast",
         "icon": "cloudy"
       },
-      "sunrise": "2026-11-12T11:39:00.000Z",
-      "sunset": "2026-11-12T21:40:00.000Z",
+      "sunrise": "2026-11-13T11:40:00.000Z",
+      "sunset": "2026-11-13T21:39:00.000Z",
       "isDay": false
     },
     "forecast": [
       {
-        "date": "2026-11-12",
-        "highC": 16,
-        "lowC": 8.5,
-        "precipitationProbability": 96,
-        "condition": {
-          "code": 63,
-          "label": "Rain",
-          "icon": "rain"
-        },
-        "sunrise": "2026-11-12T11:39:00.000Z",
-        "sunset": "2026-11-12T21:40:00.000Z"
-      },
-      {
         "date": "2026-11-13",
         "highC": 8.7,
-        "lowC": 2.9,
-        "precipitationProbability": 92,
+        "lowC": 2.3,
+        "precipitationProbability": 71,
         "condition": {
-          "code": 61,
-          "label": "Rain",
-          "icon": "rain"
+          "code": 73,
+          "label": "Snow",
+          "icon": "snow"
         },
         "sunrise": "2026-11-13T11:40:00.000Z",
         "sunset": "2026-11-13T21:39:00.000Z"
       },
       {
         "date": "2026-11-14",
-        "highC": 6.7,
-        "lowC": 1.1,
-        "precipitationProbability": 5,
+        "highC": 6,
+        "lowC": 0.9,
+        "precipitationProbability": 9,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -88,9 +69,9 @@
       },
       {
         "date": "2026-11-15",
-        "highC": 7.8,
-        "lowC": 4.4,
-        "precipitationProbability": 0,
+        "highC": 9.3,
+        "lowC": 1.4,
+        "precipitationProbability": 2,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -101,8 +82,8 @@
       },
       {
         "date": "2026-11-16",
-        "highC": 10.5,
-        "lowC": 3.8,
+        "highC": 10.9,
+        "lowC": 4.6,
         "precipitationProbability": 0,
         "condition": {
           "code": 0,
@@ -114,7 +95,7 @@
       },
       {
         "date": "2026-11-17",
-        "highC": 11.8,
+        "highC": 12.3,
         "lowC": 4.8,
         "precipitationProbability": 0,
         "condition": {
@@ -124,6 +105,19 @@
         },
         "sunrise": "2026-11-17T11:45:00.000Z",
         "sunset": "2026-11-17T21:36:00.000Z"
+      },
+      {
+        "date": "2026-11-18",
+        "highC": 14.2,
+        "lowC": 6.7,
+        "precipitationProbability": 0,
+        "condition": {
+          "code": 0,
+          "label": "Clear",
+          "icon": "clear"
+        },
+        "sunrise": "2026-11-18T11:46:00.000Z",
+        "sunset": "2026-11-18T21:35:00.000Z"
       }
     ]
   }
