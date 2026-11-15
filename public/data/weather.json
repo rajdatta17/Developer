@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-11-14T18:07:54.888Z",
-  "lastAttemptAt": "2026-11-14T22:28:43.214Z",
+  "lastAttemptAt": "2026-11-15T06:38:37.810Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -9,16 +9,16 @@
     "attribution": "Weather data by Open-Meteo"
   },
   "freshness": {
-    "status": "stale",
+    "status": "expired",
     "lastSuccessfulAt": "2026-11-14T18:07:54.888Z",
-    "ageMinutes": 260.8,
+    "ageMinutes": 750.7,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
   },
   "error": {
     "code": "PROVIDER_REFRESH_FAILED",
     "message": "fetch failed",
-    "occurredAt": "2026-11-14T22:28:43.214Z",
+    "occurredAt": "2026-11-15T06:38:37.810Z",
     "retryable": true
   },
   "weather": {
