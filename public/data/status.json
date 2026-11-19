@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T20:35:42.010Z",
+  "generatedAt": "2026-11-19T02:36:15.466Z",
   "source": {
     "id": "daybreak-deterministic",
     "name": "Daybreak deterministic briefing",
@@ -12,20 +12,20 @@
     {
       "provider": "open-meteo",
       "state": "ok",
-      "lastAttemptAt": "2026-11-18T20:35:42.010Z",
-      "lastSuccessfulAt": "2026-11-18T20:35:42.010Z"
+      "lastAttemptAt": "2026-11-19T02:36:15.466Z",
+      "lastSuccessfulAt": "2026-11-19T02:36:15.466Z"
     },
     {
       "provider": "mock-cricket",
       "state": "ok",
-      "lastAttemptAt": "2026-11-18T20:35:42.010Z",
-      "lastSuccessfulAt": "2026-11-18T20:35:42.010Z"
+      "lastAttemptAt": "2026-11-19T02:36:15.466Z",
+      "lastSuccessfulAt": "2026-11-19T02:36:15.466Z"
     },
     {
       "provider": "mock-football",
       "state": "ok",
-      "lastAttemptAt": "2026-11-18T20:35:42.010Z",
-      "lastSuccessfulAt": "2026-11-18T20:35:42.010Z"
+      "lastAttemptAt": "2026-11-19T02:36:15.466Z",
+      "lastSuccessfulAt": "2026-11-19T02:36:15.466Z"
     }
   ]
 }
