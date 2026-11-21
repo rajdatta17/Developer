@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T20:25:45.638Z",
-  "lastAttemptAt": "2026-11-20T20:25:45.638Z",
+  "generatedAt": "2026-11-21T02:20:22.448Z",
+  "lastAttemptAt": "2026-11-21T02:20:22.448Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-11-20T20:25:45.638Z",
+    "lastSuccessfulAt": "2026-11-21T02:20:22.448Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,14 +23,14 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-11-20T20:15:00.000Z",
-      "temperatureC": 20.4,
-      "feelsLikeC": 16.9,
-      "highC": 20.8,
+      "observedAt": "2026-11-21T02:15:00.000Z",
+      "temperatureC": 12.1,
+      "feelsLikeC": 9.9,
+      "highC": 21.3,
       "lowC": 6.3,
       "precipitationProbability": 0,
-      "windSpeedKph": 10.8,
-      "windDirectionDegrees": 288,
+      "windSpeedKph": 3.4,
+      "windDirectionDegrees": 356,
       "condition": {
         "code": 0,
         "label": "Clear",
@@ -38,12 +38,12 @@
       },
       "sunrise": "2026-11-20T11:48:00.000Z",
       "sunset": "2026-11-20T21:34:00.000Z",
-      "isDay": true
+      "isDay": false
     },
     "forecast": [
       {
         "date": "2026-11-20",
-        "highC": 20.8,
+        "highC": 21.3,
         "lowC": 6.3,
         "precipitationProbability": 0,
         "condition": {
@@ -56,35 +56,35 @@
       },
       {
         "date": "2026-11-21",
-        "highC": 17.9,
-        "lowC": 4.6,
+        "highC": 18,
+        "lowC": 5.7,
         "precipitationProbability": 0,
         "condition": {
-          "code": 45,
-          "label": "Fog",
-          "icon": "fog"
+          "code": 3,
+          "label": "Overcast",
+          "icon": "cloudy"
         },
         "sunrise": "2026-11-21T11:49:00.000Z",
         "sunset": "2026-11-21T21:33:00.000Z"
       },
       {
         "date": "2026-11-22",
-        "highC": 14.7,
-        "lowC": 9.9,
-        "precipitationProbability": 88,
+        "highC": 17.2,
+        "lowC": 9.5,
+        "precipitationProbability": 84,
         "condition": {
-          "code": 63,
-          "label": "Rain",
-          "icon": "rain"
+          "code": 51,
+          "label": "Drizzle",
+          "icon": "drizzle"
         },
         "sunrise": "2026-11-22T11:50:00.000Z",
         "sunset": "2026-11-22T21:33:00.000Z"
       },
       {
         "date": "2026-11-23",
-        "highC": 16.9,
-        "lowC": 8.8,
-        "precipitationProbability": 88,
+        "highC": 16.4,
+        "lowC": 8.9,
+        "precipitationProbability": 84,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -96,8 +96,8 @@
       {
         "date": "2026-11-24",
         "highC": 11.2,
-        "lowC": 5.9,
-        "precipitationProbability": 1,
+        "lowC": 6.5,
+        "precipitationProbability": 0,
         "condition": {
           "code": 3,
           "label": "Overcast",
@@ -108,13 +108,13 @@
       },
       {
         "date": "2026-11-25",
-        "highC": 7.3,
-        "lowC": 3.3,
-        "precipitationProbability": 20,
+        "highC": 7.8,
+        "lowC": 3.8,
+        "precipitationProbability": 22,
         "condition": {
-          "code": 3,
-          "label": "Overcast",
-          "icon": "cloudy"
+          "code": 51,
+          "label": "Drizzle",
+          "icon": "drizzle"
         },
         "sunrise": "2026-11-25T11:54:00.000Z",
         "sunset": "2026-11-25T21:31:00.000Z"
