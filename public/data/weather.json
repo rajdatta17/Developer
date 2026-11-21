@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T02:20:22.448Z",
-  "lastAttemptAt": "2026-11-21T02:20:22.448Z",
+  "generatedAt": "2026-11-21T11:09:55.324Z",
+  "lastAttemptAt": "2026-11-21T11:09:55.324Z",
   "source": {
     "id": "open-meteo",
     "name": "Open-Meteo",
@@ -10,7 +10,7 @@
   },
   "freshness": {
     "status": "fresh",
-    "lastSuccessfulAt": "2026-11-21T02:20:22.448Z",
+    "lastSuccessfulAt": "2026-11-21T11:09:55.324Z",
     "ageMinutes": 0,
     "staleAfterMinutes": 240,
     "expiresAfterMinutes": 720
@@ -23,41 +23,28 @@
       "timezone": "America/New_York"
     },
     "current": {
-      "observedAt": "2026-11-21T02:15:00.000Z",
-      "temperatureC": 12.1,
-      "feelsLikeC": 9.9,
-      "highC": 21.3,
-      "lowC": 6.3,
+      "observedAt": "2026-11-21T11:00:00.000Z",
+      "temperatureC": 7.2,
+      "feelsLikeC": 4.9,
+      "highC": 17.4,
+      "lowC": 6.6,
       "precipitationProbability": 0,
-      "windSpeedKph": 3.4,
-      "windDirectionDegrees": 356,
+      "windSpeedKph": 5.8,
+      "windDirectionDegrees": 15,
       "condition": {
-        "code": 0,
-        "label": "Clear",
-        "icon": "clear"
+        "code": 3,
+        "label": "Overcast",
+        "icon": "cloudy"
       },
-      "sunrise": "2026-11-20T11:48:00.000Z",
-      "sunset": "2026-11-20T21:34:00.000Z",
+      "sunrise": "2026-11-21T11:49:00.000Z",
+      "sunset": "2026-11-21T21:33:00.000Z",
       "isDay": false
     },
     "forecast": [
       {
-        "date": "2026-11-20",
-        "highC": 21.3,
-        "lowC": 6.3,
-        "precipitationProbability": 0,
-        "condition": {
-          "code": 3,
-          "label": "Overcast",
-          "icon": "cloudy"
-        },
-        "sunrise": "2026-11-20T11:48:00.000Z",
-        "sunset": "2026-11-20T21:34:00.000Z"
-      },
-      {
         "date": "2026-11-21",
-        "highC": 18,
-        "lowC": 5.7,
+        "highC": 17.4,
+        "lowC": 6.6,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
@@ -69,34 +56,34 @@
       },
       {
         "date": "2026-11-22",
-        "highC": 17.2,
-        "lowC": 9.5,
-        "precipitationProbability": 84,
+        "highC": 14.1,
+        "lowC": 7.6,
+        "precipitationProbability": 85,
         "condition": {
-          "code": 51,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 65,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-11-22T11:50:00.000Z",
         "sunset": "2026-11-22T21:33:00.000Z"
       },
       {
         "date": "2026-11-23",
-        "highC": 16.4,
-        "lowC": 8.9,
-        "precipitationProbability": 84,
+        "highC": 17.8,
+        "lowC": 8.2,
+        "precipitationProbability": 85,
         "condition": {
-          "code": 3,
-          "label": "Overcast",
-          "icon": "cloudy"
+          "code": 63,
+          "label": "Rain",
+          "icon": "rain"
         },
         "sunrise": "2026-11-23T11:52:00.000Z",
         "sunset": "2026-11-23T21:32:00.000Z"
       },
       {
         "date": "2026-11-24",
-        "highC": 11.2,
-        "lowC": 6.5,
+        "highC": 8.3,
+        "lowC": 4.2,
         "precipitationProbability": 0,
         "condition": {
           "code": 3,
@@ -108,16 +95,29 @@
       },
       {
         "date": "2026-11-25",
-        "highC": 7.8,
-        "lowC": 3.8,
-        "precipitationProbability": 22,
+        "highC": 8.5,
+        "lowC": 2.5,
+        "precipitationProbability": 10,
         "condition": {
-          "code": 51,
-          "label": "Drizzle",
-          "icon": "drizzle"
+          "code": 3,
+          "label": "Overcast",
+          "icon": "cloudy"
         },
         "sunrise": "2026-11-25T11:54:00.000Z",
         "sunset": "2026-11-25T21:31:00.000Z"
+      },
+      {
+        "date": "2026-11-26",
+        "highC": 9.5,
+        "lowC": 4.9,
+        "precipitationProbability": 67,
+        "condition": {
+          "code": 63,
+          "label": "Rain",
+          "icon": "rain"
+        },
+        "sunrise": "2026-11-26T11:55:00.000Z",
+        "sunset": "2026-11-26T21:31:00.000Z"
       }
     ]
   }
