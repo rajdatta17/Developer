@@ -1,32 +1,31 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T01:46:36.317Z",
+  "generatedAt": "2026-11-23T12:52:54.027Z",
   "source": {
     "id": "daybreak-deterministic",
     "name": "Daybreak deterministic briefing",
     "url": "https://github.com/",
     "attribution": "Generated locally from attributed normalized sources"
   },
-  "overall": "degraded",
+  "overall": "ok",
   "items": [
     {
       "provider": "open-meteo",
-      "state": "degraded",
-      "lastAttemptAt": "2026-11-23T01:46:36.317Z",
-      "lastSuccessfulAt": "2026-11-22T19:44:28.089Z",
-      "message": "fetch failed"
+      "state": "ok",
+      "lastAttemptAt": "2026-11-23T12:52:54.027Z",
+      "lastSuccessfulAt": "2026-11-23T12:52:54.027Z"
     },
     {
       "provider": "mock-cricket",
       "state": "ok",
-      "lastAttemptAt": "2026-11-23T01:46:36.317Z",
-      "lastSuccessfulAt": "2026-11-23T01:46:36.317Z"
+      "lastAttemptAt": "2026-11-23T12:52:54.027Z",
+      "lastSuccessfulAt": "2026-11-23T12:52:54.027Z"
     },
     {
       "provider": "mock-football",
       "state": "ok",
-      "lastAttemptAt": "2026-11-23T01:46:36.317Z",
-      "lastSuccessfulAt": "2026-11-23T01:46:36.317Z"
+      "lastAttemptAt": "2026-11-23T12:52:54.027Z",
+      "lastSuccessfulAt": "2026-11-23T12:52:54.027Z"
     }
   ]
 }
